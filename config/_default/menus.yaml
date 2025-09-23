@@ -1,0 +1,42 @@
+leftnav:
+- identifier: 8ceefeeb-dd52-4617-f5bd-a373d02aceb5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a00409b0-060e-09b1-fece-08893f8927ea
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 0fb05554-7750-4e22-fe7b-1751331cf59d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f986125a-9130-6578-b510-e37bb3a0b65d
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 1d158212-0d36-a7dc-d3be-db0026c7baa2
+  name: Weekly Film Notes
+  pageRef: /pages/assignments/weekly-film-notes
+  parent: f986125a-9130-6578-b510-e37bb3a0b65d
+  weight: 50
+- identifier: c10785a6-fac7-e450-264c-143ad03fc39a
+  name: 'Paper 1: Observing City Scenes'
+  pageRef: /pages/assignments/paper-1-observing-city-scenes
+  parent: f986125a-9130-6578-b510-e37bb3a0b65d
+  weight: 60
+- identifier: e959edc8-6243-0e07-920c-58b441d6141b
+  name: 'Paper 2: Close Reading'
+  pageRef: /pages/assignments/paper-2-close-reading
+  parent: f986125a-9130-6578-b510-e37bb3a0b65d
+  weight: 70
+- identifier: 3a8f54ed-273f-b1ff-39f7-721cb0aa84c0
+  name: 'Paper 3: Films and Themes'
+  pageRef: /pages/assignments/paper-3-films-and-themes
+  parent: f986125a-9130-6578-b510-e37bb3a0b65d
+  weight: 80
+- identifier: 1857ff1c-f860-2f72-6311-3f0ca807101a
+  name: Final Paper
+  pageRef: /pages/assignments/final-paper
+  parent: f986125a-9130-6578-b510-e37bb3a0b65d
+  weight: 90
