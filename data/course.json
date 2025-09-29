@@ -32,6 +32,7 @@
     "website": "11-139-the-city-in-film-spring-2015"
   },
   "course_title": "The City in Film",
+  "hide_download": true,
   "course_description": "Using film as a lens to explore and interpret various aspects of the urban experience in both the U.S. and abroad, this course presents a survey of important developments in urbanism from 1900 to the present day, including changes in technology, bureaucracy, and industrialization; immigration and national identity; race, class, gender, and economic inequality; politics, conformity, and urban anomie; and planning, development, private property, displacement, sprawl, environmental degradation, and suburbanization.\n",
   "department_numbers": [
     "11"
@@ -42,6 +43,7 @@
     "content": "c8257e6a-0aea-d930-ac4f-e2ef9b8477f8",
     "website": "11-139-the-city-in-film-spring-2015"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples",
     "Instructor Insights"
